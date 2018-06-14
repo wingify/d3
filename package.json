@@ -50,10 +50,8 @@
   "spm": {
     "main": "d3.js"
   },
-  "dependencies": {
-    "jsdom": "0.5.7"
-  },
   "devDependencies": {
+    "jsdom": "0.5.7",
     "smash": "~0.0.12",
     "uglify-js": "2.4.0",
     "vows": "0.7.0",
